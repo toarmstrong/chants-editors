@@ -10,3 +10,7 @@
     - 1-2-3
 - Validate & verify
 - Existing documentation (ICMS, DH2018)
+- Bibliography
+    - Cardine
+    - Hesbert
+- Paleography
