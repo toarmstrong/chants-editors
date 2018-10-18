@@ -12,5 +12,5 @@
 - Existing documentation (ICMS, DH2018)
 - Bibliography
     - Cardine
-    - Hesbert
-- Paleography * 
+    - Hesbert *
+- Paleography *
