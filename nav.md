@@ -1,8 +1,8 @@
 ## Editing
 
-- Neume encoding
+- Neume encoding *
 - Code library
-- URN structure
+- URN structure *
 - DSE
 - Quick start guide for editors
     - Hesbert
@@ -13,4 +13,4 @@
 - Bibliography
     - Cardine
     - Hesbert
-- Paleography
+- Paleography * 
